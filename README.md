@@ -10,6 +10,37 @@ This repository contains PCB designs.
 
 ```
 PCB_Designes/
+├── 5V_to_12V_Voltage_Booster.png
+├── Ambient_Energy_Manager.png
+├── Ambient_Energy_Manager (2).png
+├── Arduino_Uno_with_ESP-12E.png
+├── Audio_Socket.png
+├── Audio_Socket (2).png
+├── Door_Controler.png
+├── DS3231_RTC_Module.png
+├── DS3231_RTC_Module (2).png
+├── ESP32-S3_Ethernet.png
+├── ESP32_OLED_Stick.png
+├── ESP32_OLED_Stick (2).png
+├── ESP32_Temperature_Controller.png
+├── ESP32_with_SIM880L.png
+├── Fan_Controller.png
+├── FireBeetle_ESP32_with_E-Ink_Display.png
+├── HUZZAH32_Board.png
+├── Line_Follower_Robot.png
+├── LiPo_Battery_Charger.png
+├── microSD_Audio_Board.png
+├── MIDI_Keyboard_with_Audio_Interface.png
+├── Motor_Control.png
+├── Motor_Control_using_Timer.png
+├── Programmable_eFuse.png
+├── Solar_Tracker.png
+├── Solenoid_Controller.png
+├── Stepper_Motor_Controller.png
+├── Stepper_Motor_Conveyor Arm.png
+├── STM32_Board.png
+├── Teensy_4.1_Board.png
+├── Terminal_Tedium.png
 ├── LICENSE
 └── README.md
 ```
